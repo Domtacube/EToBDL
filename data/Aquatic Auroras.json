@@ -3,6 +3,7 @@
     "creators": ["EndLevel"],
     "verifier": "Zaki",
     "verification": "https://www.youtube.com/watch?v=k2N-1ehRdk0&t=0s",
+    "percentToQualify": 100,
     "records": [
     ]
 }

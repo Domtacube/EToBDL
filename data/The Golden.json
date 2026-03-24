@@ -3,6 +3,7 @@
     "creators": ["Bo"],
     "verifier": "Tux",
     "verification": "https://www.youtube.com/watch?v=J983S9mvrUk",
+    "percentToQualify": 100,
     "records": [
     ]
 }

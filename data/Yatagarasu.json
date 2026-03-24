@@ -3,6 +3,7 @@
     "creators": ["Trusta"],
     "verifier": "Zaki",
     "verification": "https://www.youtube.com/watch?v=X2DVUJ5Fj_Q",
+    "percentToQualify": 100,
     "records": [
     ]
 }

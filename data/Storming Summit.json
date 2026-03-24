@@ -3,6 +3,7 @@
     "creators": ["Numbus"],
     "verifier": "CleverWhatever",
     "verification": "https://www.youtube.com/watch?v=uujFdFHFnYo",
+    "percentToQualify": 100,
     "records": [
     ]
 }

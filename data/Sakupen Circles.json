@@ -3,6 +3,7 @@
     "creators": ["Diamond"],
     "verifier": "Cc478",
     "verification": "https://www.youtube.com/watch?v=MXSS62uEgfU&t=13s",
+    "percentToQualify": 100,
     "records": [
     ]
 }
