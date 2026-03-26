@@ -6,13 +6,13 @@
     "percentToQualify": 100,
     "records": [
         {
-            "User": "CleverWhatever",
+            "user": "CleverWhatever",
             "link": "https://www.youtube.com/watch?v=LYhK-fxxVJM",
             "percent": 100,
             "hz": 360
         },
         {
-            "User": "Domtacube",
+            "user": "Domtacube",
             "link": "https://www.youtube.com/watch?v=UzCYdiHxTm4",
             "percent": 100,
             "hz": 360
