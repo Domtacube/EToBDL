@@ -8,14 +8,12 @@
         {
             "user": "CleverWhatever",
             "link": "https://www.youtube.com/watch?v=LYhK-fxxVJM",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "Domtacube",
             "link": "https://www.youtube.com/watch?v=UzCYdiHxTm4",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         }
     ]
 }
