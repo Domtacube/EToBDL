@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=PGA4sgVmQLA&t=1s",
     "percentToQualify": 100,
     "records": [
+          {
+            "user": "Zaki",
+            "link": "https://www.youtube.com/watch?v=ETR9-NVpHvI",
+            "percent": 100
+        }
     ]
 }

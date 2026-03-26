@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=gf0TDH6QKRQ",
     "percentToQualify": 100,
     "records": [
+    {
+            "user": "Zycek",
+            "link": "https://youtu.be/J2twi3kve0M?si=8uKADYuH5YpFgfGZ&t=131",
+            "percent": 100
+        }
     ]
 }

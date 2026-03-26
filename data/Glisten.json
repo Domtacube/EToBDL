@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=L05S1pDwCAE&t=56s",
     "percentToQualify": 100,
     "records": [
+                          {
+            "user": "Fiyo",
+            "link": "www.youtube.com/watch?v=dQeMkP-Gstc",
+            "percent": 100
+        }
     ]
 }
