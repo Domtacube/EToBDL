@@ -5,5 +5,11 @@
     "verification": "https://www.youtube.com/watch?v=Cf1zBV7IIuw",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Domtacube",
+            "link": "https://www.youtube.com/watch?v=u3yvfKnpqu8",
+            "percent": 100
+        }
+
     ]
 }
