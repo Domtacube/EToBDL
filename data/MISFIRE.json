@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=z2f4YkhTd3k",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Opti",
+            "link": "https://youtu.be/SgfPYksKHyY",
+            "percent": 100
+        }
     ]
 }

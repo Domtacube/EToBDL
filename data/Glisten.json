@@ -1,13 +1,18 @@
 {
-    "name": "Azurite",
-    "creators": ["Sillow"],
-    "verifier": "Fiyo",
-    "verification": "https://www.youtube.com/watch?v=L05S1pDwCAE&t=56s",
+    "name": "Glisten",
+    "creators": ["Squizaaard"],
+    "verifier": "Domtacube",
+    "verification": "https://www.youtube.com/watch?v=h1Ma4-NmKos",
     "percentToQualify": 100,
     "records": [
-                          {
+                        {
             "user": "Fiyo",
             "link": "www.youtube.com/watch?v=dQeMkP-Gstc",
+            "percent": 100
+        },
+        {
+            "user": "Autumn",
+            "link": "https://www.youtube.com/watch?v=fjJ7gw9UUsA",
             "percent": 100
         }
     ]

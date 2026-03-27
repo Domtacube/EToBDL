@@ -1,9 +1,24 @@
 {
-    "name": "Glisten",
-    "creators": ["Squizaaard"],
-    "verifier": "Domtacube",
-    "verification": "https://www.youtube.com/watch?v=h1Ma4-NmKos",
+    "name": "Azurite",
+    "creators": ["Sillow"],
+    "verifier": "Fiyo",
+    "verification": "https://www.youtube.com/watch?v=L05S1pDwCAE&t=56s",
     "percentToQualify": 100,
     "records": [
+                {
+            "user": "Zaki",
+            "link": "https://www.youtube.com/watch?v=d2UtV2kJ4js",
+            "percent": 100
+        },
+        {
+            "user": "Autumn",
+            "link": "https://www.youtube.com/watch?v=CiOHUT1iClY",
+            "percent": 100
+        },
+        {
+            "user": "SunnyAgus",
+            "link": "BITCH",
+            "percent": 100
+        }
     ]
 }

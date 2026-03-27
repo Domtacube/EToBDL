@@ -5,5 +5,15 @@
     "verification": "https://www.youtube.com/watch?v=Wy2Ui4765MA",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Zaki",
+            "link": "https://www.youtube.com/watch?v=f9oPR34Cs3s",
+            "percent": 100
+        },
+        {
+            "user": "Autumn",
+            "link": "https://www.youtube.com/watch?v=BoMs5GP1sYg&pp=0gcJCdkKAYcqIYzv",
+            "percent": 100
+        }
     ]
 }

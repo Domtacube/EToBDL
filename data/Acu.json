@@ -14,6 +14,21 @@
             "user": "Zaki",
             "link": "https://www.youtube.com/watch?v=uvZqPvnPV0c",
             "percent": 100
-        }  
+        },
+         {
+            "user": "Autumn",
+            "link": "https://www.youtube.com/watch?v=yb2D5XbQ7MM",
+            "percent": 100
+        },
+{
+            "user": "Opti",
+            "link": "https://youtu.be/ao4kEuRNfPw",
+            "percent": 100
+        },
+         {
+            "user": "SunnyAgus",
+            "link": "https://youtu.be/LoEmVMLFIT4?si=w8K0rBqr-x8lwCoO",
+            "percent": 100
+        }
     ]
 }
