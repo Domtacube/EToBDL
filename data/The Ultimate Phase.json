@@ -1,0 +1,14 @@
+{
+    "name": "The Ultimate Phase",
+    "creators": ["Andromeda"],
+    "verifier": "Zaki",
+    "verification": "https://www.youtube.com/watch?v=50ljQZARHBc",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "gyrocynical",
+            "link": "https://www.youtube.com/watch?v=50ljQZARHBc",
+            "percent": 100
+        }
+    ]
+}

@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=yzFiRxeZXD4",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "gyrocynical",
+            "link": "https://www.youtube.com/watch?v=jOZZk3uDHWo",
+            "percent": 100
+        }
     ]
 }
