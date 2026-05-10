@@ -1,14 +1,9 @@
 {
     "name": "Stalemate Redux",
     "creators": ["TehTactiq"],
-    "verifier": "SunnyAgus",
-    "verification": "https://www.youtube.com/watch?v=sjRpYWlKrvI",
+    "verifier": "gyrocynical",
+    "verification": "https://www.youtube.com/watch?v=9RnecnzdQg4",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "gyrocynical",
-            "link": "https://www.youtube.com/watch?v=9RnecnzdQg4",
-            "percent": 100
-        }
     ]
 }
