@@ -1,14 +1,10 @@
 {
     "name": "Devil Vortex",
     "creators": ["Rustam"],
-    "verifier": "Dusk",
-    "verification": "https://www.youtube.com/watch?v=Fvm88asf3NA",
+    "verifier": "gyrocynical",
+    "verification": "https://www.youtube.com/watch?v=nl38pxxZClU",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "gyrocynical",
-            "link": "https://www.youtube.com/watch?v=nl38pxxZClU",
-            "percent": 100
-        }
+
     ]
 }
