@@ -5,5 +5,10 @@
     "verification": "https://www.youtube.com/watch?v=9RnecnzdQg4",
     "percentToQualify": 100,
     "records": [
+                {
+            "user": "SunnyAgus",
+            "link": "https://youtu.be/sjRpYWlKrvI?si=jcsEx_Njg9-OaoGk",
+            "percent": 100
+        }
     ]
 }
